@@ -3,6 +3,9 @@
 📜 Certificates Repository
 
 This repository contains my professional certificates in:
+Deloitte
+
+BCG X
 
 Microsoft Excel
 
